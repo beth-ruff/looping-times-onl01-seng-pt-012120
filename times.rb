@@ -1,7 +1,10 @@
-def using_times
-	#your code here
+7.times do
+  def using_times
+  	puts wingardium leviosa
+  end
 end
 
+using_times
 
 
 
